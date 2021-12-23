@@ -1,0 +1,8 @@
+Course project for Coursera: getting and cleaning data
+
+Dataset: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
+Files CodeBook.md : codebook detailing the data, variables and all transformations made to it
+
+getting and cleaning data project.R : contains my code answering the questions of the assignment, reading the data, merging it, renaming the activities, 
+filtering for mean and std and creating a tidy dataset data2.txt the final tidy set created after running getting and cleaning data project.R
